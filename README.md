@@ -14,7 +14,9 @@
 
 ## Description
 
-TinyWear is an ecommerce platform for toddler clothing, specializing in shirts, pants, and sets. It provides a user-friendly interface for customers to browse and purchase toddler clothes based on age and gender.
+TinyWear is an ecommerce platform for toddler clothing, specializing in shirts, pants, and sets. It provides a user-friendly interface for customers to browse and purchase toddler clothes based on age and gender. 
+
+Deployed link: https://shrouded-depths-10067-a13be7bb300f.herokuapp.com/
 
 
 ## Features
